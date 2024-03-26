@@ -260,7 +260,7 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
-#EXTINF:-1, tvg-logo"  group-title="DEPORTES",Bein Ñ
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658"  group-title="DEPORTES",Bein Ñ
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
