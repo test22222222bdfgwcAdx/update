@@ -262,7 +262,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658"  group-title="DEPORTES",Bein Ñ
 
-http://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8pd
+http://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnpremium.png"  group-title="DEPORTES ESPN",ESPN Premiun
 
