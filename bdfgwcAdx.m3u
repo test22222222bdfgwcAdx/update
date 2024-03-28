@@ -872,7 +872,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
  
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="Música",Quiero Musica
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_09/57e3ec818a545_QuieroHD-.png.f88129c781d195c230ea3ddf963a2296.png" group-title="Música",Quiero Musica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
@@ -892,10 +892,6 @@ https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flo
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
 https://edge-mix04-coe.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn0ObPz.png" group-title="Música",Flow Music 3 608
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
-https://edge1-ccast-sl.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Flow_Music_3.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuvBQCw.png" group-title="Música",HTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -905,7 +901,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 #EXTINF:-1 tvg-id="toplatino.cl" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="Música",TOP Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHgOIB5.png" group-title="Música",Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vHgOIB5.png" group-title="Música",Vevo p
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="PLUTO" tvg-logo="https://i.imgur.com/EIY3y2F.png" group-title="Música",MTV Party
@@ -917,11 +913,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82
 #EXTINF:-1 tvg-id="BajoCero.cl" tvg-logo="https://i.imgur.com/3Nxe23t.png" group-title="Música",Portal Mix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BajoCero.cl" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Música",PowerHD
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
  
 #EXTINF:-1 tvg-id="vintagemusic.cl" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Música",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ex3G7AC.png" group-title="Música",Recuerdos Retro TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
