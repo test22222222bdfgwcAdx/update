@@ -576,6 +576,24 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
 
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"  group-title="ENTRETENIMIENTO",Golden
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/0QygQDg/goldenplus.jpg"  group-title="ENTRETENIMIENTO",Golden Plus
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest/scale-to-width-down/300?cb=20200422173832"  group-title="ENTRETENIMIENTO",Golden Prem
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/paramount.webp"  group-title="ENTRETENIMIENTO",Paramount
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
