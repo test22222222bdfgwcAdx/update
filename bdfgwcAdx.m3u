@@ -582,7 +582,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/0QygQDg/goldenplus.jpg"  group-title="ENTRETENIMIENTO",Golden Plus
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.GoldenPlus.png.cdb313139fe150cdd69ff92b8863dbfa.png"  group-title="ENTRETENIMIENTO",Golden Plus
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
