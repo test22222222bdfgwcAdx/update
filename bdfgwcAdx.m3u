@@ -1,12 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-https://rpn3.bozztv.com/ssh101/ssh101/ncjkdjkkdkhd/playlist.m3u8
-
+https://rpn3.bozztv.com/ssh101/ssh101/plaguitaputo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="EVENTOS PY", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -14,7 +13,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/ncjkdjkkdkhd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G991B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
-https://rpn3.bozztv.com/ssh101/ssh101/ratitaaa/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/plaguitaputo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="EVENTOS PY", EVENTOS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -23,7 +22,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/ratitaaa/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G991B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
-https://rpn3.bozztv.com/ssh101/ssh101/bvnvgsfsfsgus/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/entrenensucu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="PARAGUAY", TRECE
 
