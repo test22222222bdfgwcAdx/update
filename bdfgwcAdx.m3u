@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-https://rpn3.bozztv.com/ssh101/ssh101/ncjkdjkkdkhd/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/plaguitaputo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="EVENTOS PY", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -489,7 +489,7 @@ https://edge-live32-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyH
 
 https://edge-live32-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/universal.webp"  group-title="ENTRETENIMIENTO",Universal TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/unitv.webp"  group-title="ENTRETENIMIENTO",Universal TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -557,13 +557,7 @@ https://edge-live16-hr.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png"  group-title="ENTRETENIMIENTO",ISAT
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=db764164934a48749a7a01bd015694f3:512f3c8869af45e6e5dd1525b6a77867
-
-https://edge-live15-hr.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png"  group-title="ENTRETENIMIENTO",A3 Series
 
@@ -572,13 +566,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mp
 #KODIPROP:inputstream.adaptive.license_key=49dab3bfbc255da1b20852d172bb2f53:06295c8d6009a47f8c83e5c0d3f6fdd0
 
 https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/syfy.webp"  group-title="ENTRETENIMIENTO",SyFy
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=9cd99cbb466c42e5b33e7a2ef7e2c7df:18d9faccdaf2d15807d0a3f713e8b2a4
-
-https://edge-live15-hr.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/comedy.webp"  group-title="ENTRETENIMIENTO",Comedy Central
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -595,13 +583,13 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 
 https://edge-live14-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/trutv.webp"  group-title="ENTRETENIMIENTO",TruTV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/dream.png"  group-title="INFANTILES",Dreamworks
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=7d0cecffe9c29734343cf9983978c1a1:f86b5ac05f2a2626b6c61bd4e13344d8
 
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/TruTV/SA_Live_dash_enc/TruTV.mpd
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"  group-title="ENTRETENIMIENTO", TELEMUNDO 
 
@@ -739,7 +727,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cnito.webp"  group-title="INFANTILES",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disneyjr.webp"  group-title="INFANTILES",Cartoonito
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -763,7 +751,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/Dis
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nick.webp"  group-title="INFANTILES",Nick
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nick.png"  group-title="INFANTILES",Nick
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -779,7 +767,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/telefe.webp"  group-title="ARGENTINA",TELEFE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/telefe.png"  group-title="ARGENTINA",TELEFE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -819,7 +807,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal
 
 https://edge-live02-mun.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cronica.webp"  group-title="ARGENTINA",CRONICA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cronica.png"  group-title="ARGENTINA",CRONICA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -827,7 +815,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/A
 
 https://edge-live02-mun.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tn.webp"  group-title="ARGENTINA",TN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tn.png"  group-title="ARGENTINA",TN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
