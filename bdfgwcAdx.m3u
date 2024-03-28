@@ -6,6 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 https://rpn3.bozztv.com/ssh101/ssh101/lasratitaspl/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="EVENTOS PY", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -595,7 +596,7 @@ https://edge-live11-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Drea
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
+#KODIPROP:inputstream.adaptive.license_key=0f4275d68251ac75c6a9230806d362:7f30c43e47544412221fd64201d92f4b
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
 
@@ -735,7 +736,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/junior.webp"  group-title="INFANTILES",Disney Jr
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disneyjr.webp"  group-title="INFANTILES",Disney Jr
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
