@@ -584,13 +584,13 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 
 https://edge-live14-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/dream.png"  group-title="INFANTILES",Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/dream.png" group-title="INFANTILES",Dreamworks
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=f86b5ac05f2a2626b6c61bd4e13344d8:7d0cecffe9c29734343cf9983978c1a1
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 
-https://edge-live11-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"  group-title="ENTRETENIMIENTO", TELEMUNDO 
 
