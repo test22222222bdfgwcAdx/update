@@ -218,7 +218,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNH
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports.png"  group-title="DEPORTES",DSports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
-http://gtechtecnologia.com/dtv/444952454354562053504f525453204844.mpd
+https://gtechtecnologia.com/telelatino/play/20.m3u8
 
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_2.png"  group-title="DEPORTES",DSports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
