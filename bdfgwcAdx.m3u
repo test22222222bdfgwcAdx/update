@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=614f64be14db4a98884c86dece7ed9ca:710475e12a688506fa8dc52c74833ea2
+
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/04/03/Nacional_URU_vs_Libertad__20240403_1712175334032/ctr-all-complete.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
