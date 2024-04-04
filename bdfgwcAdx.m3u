@@ -917,4 +917,195 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="vintagemusic.cl" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Música",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
  
+#EXTINF:-1tvg-logo="https://televisionlibre.futbol/logos/optimized/comedy.webp" group-title="SD",500 COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="SD",501  TOONCAST
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/space.webp" group-title="SD",502 SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="SD",503 PARAMOUNT
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="SD",504 TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp" group-title="SD",505 DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" group-title="SD",506 ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD",507 FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png" group-title="SD",508 NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" group-title="SD",509 HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SD",510 PASIONES
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="SD",511 CINECANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="SD",512 MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="SD",513 STUDIO UNIVERSAL
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="SD",514 CARTOON NETWORK
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/warner-tv4266.logowik.com.webp" group-title="SD",515 WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD",516 FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD",517 ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD",518 ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SD",519 SONY CHANEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/NickMusicSplat-SocMed-2023.svg/revision/latest/scale-to-width-down/250?cb=20230922085441" group-title="SD",520 NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="SD",521 TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tru-tv7414.jpg" group-title="SD",522 TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/axn.webp" group-title="SD",523 AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="SD",524 CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/star.webp" group-title="SD",525 STAR CHANNEL
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history.webp" group-title="SD",526 HISTORY
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjydhtnkX4B3WSirkJpTWvRD_gRp2ADdagohqNtnbKw&s" group-title="SD",527 SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/228?cb=20220927013159" group-title="SD",528 BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="SD",529 CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/mtv.webp" group-title="SD",530 MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="SD",531 UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/universal.webp" group-title="SD",532 UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",533 ENI
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="SD",534 ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",535 ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/tnt.webp" group-title="SD",536 TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/amc.webp" group-title="SD",537 AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",538 CANAL 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",539 NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/hbo2.webp" group-title="SD",540 HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",541 KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",542 DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",543 FOX DEPORTES
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",544 H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="SD",545 FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",546 TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/nick.webp" group-title="SD",547 NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="SD",548 ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",549 FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",550 TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",551 CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",552 MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/golden-tv-logo-92B1EAA401-seeklogo.com.png" group-title="SD",553 GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",554 FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",555 TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="SD",556 ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/40/63/8f/40638fe8-9174-bc3e-fa9a-1e1371d416a2/source/512x512bb.jpg" group-title="SD",557 HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="SD",558 TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD",559 IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/lifetime.webp" group-title="SD",560 LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/e.webp" group-title="SD",561 E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://televisionlibre.futbol/logos/optimized/history2.webp" group-title="SD",562 HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/ae.webp" group-title="SD",563 A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 
