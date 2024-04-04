@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="FORMULA 1" tvg-logo="https://cdn-9.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" ,703 SKY FORMULA 1 OPCION 4 (🏴󠁧󠁢󠁥󠁮󠁧󠁿) ts
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=1481941&extension=ts&play_token=BIv2DrUHum&sn2=
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
