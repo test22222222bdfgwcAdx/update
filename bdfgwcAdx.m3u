@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sample with DRM",Channel PlayReady
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ebee20607c344fc3882067a24106cb1b&key=56742510e2ad29095e67da137e0aeee5
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/04/04/Liverpool_vs_Sheffield_Un_20240404_1712248838041/ctr-all-complete.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ebee20607c344fc3882067a24106cb1b&key=56742510e2ad29095e67da137e0aeee5
+#EXTINF:-1 group-title="Sample with DRM",Channel Widevine
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2024/04/04/Liverpool_vs_Sheffield_Un_20240404_1712248838041/ctr-all-complete.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
