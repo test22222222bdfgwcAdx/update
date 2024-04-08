@@ -217,16 +217,16 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports.png"  group-title="DEPORTES",DSports
-https://01.tiofutbol.com:442/directvsports/tracks-v1a1/rewind-1800.m3u8?token=c8999a39b1993a3e20b8ab3ae04446aa37bfdec4-34b0d3c8316085c1b12efe14a980d05c-1712254121-1712243321
+https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525777
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_2.png"  group-title="DEPORTES",DSports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
-http://gtechtecnologia.com/dtv/444952454354562053504f5254532032204844.mpd
+https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525785
 
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_Plus.png?"  group-title="DEPORTES",DSports P
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-http://gtechtecnologia.com/dtv/444952454354562053504f52545320504c5553.mpd
+https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525785
 
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports.png"  group-title="DEPORTES",Fox Sports
