@@ -2,19 +2,19 @@
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.othumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=8dhttps://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
 https://sam-py-edge01.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.othumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=8dhttps://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
 https://sam-py-edge01.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd?ccur_fmt_type=fmp4
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.othumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=8dhttps://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
 https://sam-py-edge01.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.othumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=8dhttps://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net:8063/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
 https://sam-py-edge01.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
