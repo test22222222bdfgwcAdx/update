@@ -1,4 +1,5 @@
- 
+ {
+  "categories": [
   {
     "name": "⚽ DEPORTES NACIONALES E INTERNACIONALES",
     "samples": [
@@ -6,6 +7,8 @@
         "name": "GOL CARACOL",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/254191",
         "icono": "http://imgfz.com/i/0pKjWM6.jpeg"
+	 }
+	]
       },
      {
         "name": "CLARO SPORTS",
