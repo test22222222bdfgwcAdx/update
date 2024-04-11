@@ -235,8 +235,7 @@ https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525785
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 
 
-
-https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports2.png"  group-title="DEPORTES",Fox Sports 2
 
@@ -269,7 +268,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/TNT_Sports.webp"  group-title="DEPORTES",TNT Sports
 
