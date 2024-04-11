@@ -296,7 +296,14 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyC
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/TyC_Internacional.mpd
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png"  group-title="DEPORTES",ESPN Premium Argentina HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
+https://megaezztv.webcindario.com/app/sports.php?id=espnpremiumhd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="DEPORTES",TNT Sports Argentina HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://megaezztv.webcindario.com/app/sports.php?id=tntsportshd
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/turbo.webp"  group-title="CULTURALES",Discovery Turbo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
