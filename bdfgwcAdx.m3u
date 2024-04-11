@@ -296,9 +296,9 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyC
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/TyC_Internacional.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="DEPORTES",TNT Sports Argentina HD
+#EXTINF:-1 tvg-logo="https://i.imgur.comChI.png" group-title="DEPORTES",TNT Sports Argentina HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b52a7fa91fb031a3d6f2a505414b6fcd:a655a22f9c0a66574b5d95dee212fbf9
+#KODIPROP:inputstream.adaptive.license_key=a655a22f9c0a66574b5d95dee212fbf9:b52a7fa91fb031a3d6f2a505414b6fcd
 https://sam-py-edge02.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="DEPORTES",TNT Sports Argentina HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
