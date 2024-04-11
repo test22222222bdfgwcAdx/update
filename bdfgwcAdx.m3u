@@ -295,11 +295,11 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyC
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png"  group-title="DEPORTES",ESPN Premium HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="DEPORTES",TNT Sports Argentina HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b52a7fa91fb031a3d6f2a505414b6fcd:a655a22f9c0a66574b5d95dee212fbf9
+https://sam-py-edge02.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="DEPORTES",TNT Sports Argentina HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
