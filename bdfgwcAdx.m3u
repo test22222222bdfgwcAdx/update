@@ -510,8 +510,6 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_das
 
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
 
-
-
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/studio.webp"  group-title="ENTRETENIMIENTO",Studio Universal
@@ -519,8 +517,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
-
-
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd
 
@@ -530,8 +526,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_en
 
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
 
-
-
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png"  group-title="ENTRETENIMIENTO",TNT NOVELAS
@@ -539,8 +533,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
-
-
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
@@ -618,7 +610,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Drea
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=0f4275d68251ac75c6a9230806d362:7f30c43e47544412221fd64201d92f4b
+#KODIPROP:inputstream.adaptive.license_key=d1fd24db1b61d634cabfc44538ce9b0e:53d752e4649dadd808d913985f86ee77
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
 
