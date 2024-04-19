@@ -544,9 +544,6 @@ https://edge-live16-hr.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
-
-
-
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
 
@@ -585,7 +582,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/paramount.webp"  group-title="ENTRETENIMIENTO",Paramount
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PRMT.png?raw=true"  group-title="ENTRETENIMIENTO",Paramount
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
