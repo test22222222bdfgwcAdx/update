@@ -1,9 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://candy-omniscient-power.glitch.me/license.php ||R{SSM}|
-http://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#EXTVLCOPT:http-referrer=https://onetv.tigo.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="📲 4g lista", 2 EL NUEVE (🇦🇷) ss
+https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/ParaguayTV/ParaguayTV/transmux/index.m3u8?ccur_fmt_type=fmp4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#EXTVLCOPT:http-referrer=https://onetv.tigo.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="📲 4g lista", 2 EL NUEVE (🇦🇷) ss
+https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/ParaguayTV/ParaguayTV/transmux/index.mpd?ccur_fmt_type=fmp4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#EXTVLCOPT:http-referrer=https://onetv.tigo.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="📲 4g lista", 2 EL NUEVE (🇦🇷) ss
+https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/ParaguayTV/ParaguayTV/transmux/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.milcom.vcas.na1.verimatrixcloud.net/?deviceId=MmRmZjY2MjQtMGZjOS0zYTFlLTgxMjMtYzJhNzM5ODU2YjFj
+#EXTVLCOPT:http-referrer=https://onetv.tigo.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="📲 4g lista", 2 EL NUEVE (🇦🇷) ss
+https://pylocalmillicom.lcdn.une.net.co/VMX4_widevine/rolling-buffer/ParaguayTV/ParaguayTV/transmux/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
