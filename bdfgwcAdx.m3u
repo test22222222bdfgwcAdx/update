@@ -505,7 +505,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSe
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/star.webp"  group-title="🎦 ENTRETENIMIENTO",STAR
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png"  group-title="🎦 ENTRETENIMIENTO",STAR
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -529,7 +529,7 @@ https://edge-live32-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyH
 
 https://edge-live32-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/unitv.webp"  group-title="🎦 ENTRETENIMIENTO",Universal TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal@3x.png"  group-title="🎦 ENTRETENIMIENTO",Universal TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
