@@ -477,7 +477,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tnt.webp"  group-title="🎦 ENTRETENIMIENTO",TNT
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/16sYa4Q.png"  group-title="🎦 ENTRETENIMIENTO",TNT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -487,7 +487,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/Cin
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tntseries.webp"  group-title="🎦 ENTRETENIMIENTO",TNT Series
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png"  group-title="🎦 ENTRETENIMIENTO",TNT Series
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -561,7 +561,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_en
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png"  group-title="🎦 ENTRETENIMIENTO",TNT NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png"  group-title="🎦 ENTRETENIMIENTO",TNT NOVELAS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
