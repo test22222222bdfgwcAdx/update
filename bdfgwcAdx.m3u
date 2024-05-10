@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="EVENTOS PY", EVENTOS 1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 http://129.151.112.176/bin/m3u8/TIGO_SPORT_HD/index.m3u8?token=WK5kbN2D
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="EVENTOS PY", EVENTOS 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14,7 +14,7 @@ http://129.151.112.176/bin/m3u8/TIGO_SPORT_HD/index.m3u8?token=WK5kbN2D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G991B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
 http://129.151.112.176/bin/m3u8/TIGO_SPORT_PLUS_HD/index.m3u8?token=WK5kbN2D
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="EVENTOS PY", EVENTOS 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -26,7 +26,7 @@ http://129.151.112.176/bin/m3u8/TIGO_SPORT_3_HD/index.m3u8?token=WK5kbN2D
 ---------------------paraguay --------------------------
 ----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="PARAGUAY", TRECE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="🇵🇾 PARAGUAY", TRECE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -37,7 +37,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.m
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/parts-web/0aae71cf/logo.png"  group-title="PARAGUAY", , SNT
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/parts-web/0aae71cf/logo.png"  group-title="🇵🇾 PARAGUAY", , SNT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -45,7 +45,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.m
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"  group-title="PARAGUAY","GEN" logo="", GEN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"  group-title="🇵🇾 PARAGUAY","GEN" logo="", GEN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -53,7 +53,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C
 
 https://edge9-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY",  Sur TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="🇵🇾 PARAGUAY",  Sur TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -61,7 +61,7 @@ https://edge9-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ytimg.com/vi/PdFWZbnyyOs/hqdefault.jpg" group-title="PARAGUAY",  RTV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ytimg.com/vi/PdFWZbnyyOs/hqdefault.jpg" group-title="🇵🇾 PARAGUAY",  RTV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -69,7 +69,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SU
 
 https://video.medios.com.py:3585/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"  group-title="PARAGUAY", Telefuturo
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"  group-title="🇵🇾 PARAGUAY", Telefuturo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -77,7 +77,7 @@ https://video.medios.com.py:3585/multi_live/play.m3u8
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" C9N group-title="PARAGUAY", C9N
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" C9N group-title="🇵🇾 PARAGUAY", C9N
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -85,7 +85,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/T
 
 https://edge-live15-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"  group-title="PARAGUAY", ABC TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"  group-title="🇵🇾 PARAGUAY", ABC TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -93,7 +93,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.m
 
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png"  group-title="PARAGUAY", LA TELE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png"  group-title="🇵🇾 PARAGUAY", LA TELE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -101,7 +101,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"  group-title="PARAGUAY", NTPY
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"  group-title="🇵🇾 PARAGUAY", NTPY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -109,7 +109,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/L
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png"  group-title="PARAGUAY", PARAGUAY TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png"  group-title="🇵🇾 PARAGUAY", PARAGUAY TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -117,7 +117,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"  group-title="PARAGUAY", PARAVISION
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"  group-title="🇵🇾 PARAGUAY", PARAVISION
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -125,7 +125,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png"  group-title="PARAGUAY", UNICANAL
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png"  group-title="🇵🇾 PARAGUAY", UNICANAL
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -133,15 +133,15 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/O4EXvjT.png"  group-title="PARAGUAY", F-
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/O4EXvjT.png"  group-title="🇵🇾 PARAGUAY", F-
 
 http://159.203.148.226/live/farra_mid.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.masencarnacion.com/themes/mas-encarnacion/assets/tv/images/logo.png"  group-title="PARAGUAY", MAS TV 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.masencarnacion.com/themes/mas-encarnacion/assets/tv/images/logo.png"  group-title="🇵🇾 PARAGUAY", MAS TV 
 
 http://129.80.85.171:8080/live/mastv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/2JxePoN.png"  group-title="PARAGUAY", TVS
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/2JxePoN.png"  group-title="🇵🇾 PARAGUAY", TVS
 
 https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
@@ -201,14 +201,14 @@ https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 ---------------------deportes --------------------------
 ----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"  group-title="DEPORTES",DAZN F1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"  group-title="⚽ DEPORTES",DAZN F1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&u"  group-title="DEPORTES",DANZ G1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&u"  group-title="⚽ DEPORTES",DANZ G1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -216,12 +216,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/ESPN.png"  group-title="DEPORTES ESPN",ESPN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/ESPN.png"  group-title="⚽ DEPORTES ESPN",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/ESPN_2.png"  group-title="DEPORTES ESPN",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/ESPN_2.png"  group-title="⚽ DEPORTES ESPN",ESPN 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -229,7 +229,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD
 
 https://edge-vod01-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/ESPN_3.png"  group-title="DEPORTES ESPN",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/ESPN_3.png"  group-title="⚽ DEPORTES ESPN",ESPN 3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -237,33 +237,33 @@ https://edge-vod01-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/espn4.png"  group-title="DEPORTES ESPN",ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/espn4.png"  group-title="⚽ DEPORTES ESPN",ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png"  group-title="DEPORTES ESPN",ESPN 5
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png"  group-title="⚽ DEPORTES ESPN",ESPN 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png"  group-title="DEPORTES ESPN",ESPN 6
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png"  group-title="⚽ DEPORTES ESPN",ESPN 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png"  group-title="DEPORTES ESPN",ESPN 7
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png"  group-title="⚽ DEPORTES ESPN",ESPN 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnextra.png"  group-title="DEPORTES ESPN",ESPN EXTRA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnextra.png"  group-title="⚽ DEPORTES ESPN",ESPN EXTRA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -271,20 +271,20 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
-#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports.png"  group-title="DEPORTES",DSports
+#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports.png"  group-title="⚽ DEPORTES",DSports
 https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525777
-#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_2.png"  group-title="DEPORTES",DSports 2
+#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_2.png"  group-title="⚽ DEPORTES",DSports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
 https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525785
 
-#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_Plus.png?"  group-title="DEPORTES",DSports P
+#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_Plus.png?"  group-title="⚽ DEPORTES",DSports P
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
 https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525785
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports.png"  group-title="DEPORTES",Fox Sports
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports.png"  group-title="⚽ DEPORTES",Fox Sports
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -293,7 +293,7 @@ https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525785
 
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports2.png"  group-title="DEPORTES",Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports2.png"  group-title="⚽ DEPORTES",Fox Sports 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -304,7 +304,7 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports3.png"  group-title="DEPORTES",Fox Sports 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports3.png"  group-title="⚽ DEPORTES",Fox Sports 3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -312,14 +312,14 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658"  group-title="DEPORTES",Bein Ñ
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658"  group-title="⚽ DEPORTES",Bein Ñ
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/TYC_Sports.webp"  group-title="DEPORTES",TyC Sin
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/TYC_Sports.webp"  group-title="⚽ DEPORTES",TyC Sin
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -327,7 +327,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png"  group-title="DEPORTES",TyC sp
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png"  group-title="⚽ DEPORTES",TyC sp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -338,7 +338,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_e
 
 ---------------------cultura --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/turbo.webp"  group-title="CULTURALES",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/turbo.webp"  group-title="📚 CULTURALES",Discovery Turbo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -346,7 +346,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_e
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/id.webp"  group-title="CULTURALES",ID
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/id.webp"  group-title="📚 CULTURALES",ID
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -354,7 +354,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/lifetime.webp"  group-title="CULTURALES",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/lifetime.webp"  group-title="📚 CULTURALES",Lifetime
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -362,7 +362,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png"  group-title="CULTURALES",Gourmet
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png"  group-title="📚 CULTURALES",Gourmet
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -370,7 +370,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifeti
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hyh.webp"  group-title="CULTURALES",Discovery H&H
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hyh.webp"  group-title="📚 CULTURALES",Discovery H&H
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -378,7 +378,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tlc.webp"  group-title="CULTURALES",TLC
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tlc.webp"  group-title="📚 CULTURALES",TLC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -386,7 +386,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_da
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/natgeo.webp"  group-title="CULTURALES",NatGeo
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/natgeo.webp"  group-title="📚 CULTURALES",NatGeo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -394,7 +394,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/discovery.webp"  group-title="CULTURALES",Discovery
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/discovery.webp"  group-title="📚 CULTURALES",Discovery
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -402,7 +402,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/Nat
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/aplanet.webp"  group-title="CULTURALES",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/aplanet.webp"  group-title="📚 CULTURALES",Animal Planet
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -410,7 +410,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/history.webp"  group-title="CULTURALES",History 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/history.webp"  group-title="📚 CULTURALES",History 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -418,7 +418,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/history2.webp"  group-title="CULTURALES",History 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/history2.webp"  group-title="📚 CULTURALES",History 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -426,7 +426,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/Hi
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disworld.webp"  group-title="CULTURALES",Discovery World
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disworld.webp"  group-title="📚 CULTURALES",Discovery World
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -436,7 +436,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/Histo
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disscience.webp"  group-title="CULTURALES",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disscience.webp"  group-title="📚 CULTURALES",Discovery Science
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -631,7 +631,7 @@ https://edge-live14-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Pa
 ---------------------infantiles --------------------------
 ----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/dream.png" group-title="INFANTILES",Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/dream.png" group-title="🧸 INFANTILES",Dreamworks
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -647,7 +647,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Drea
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbo.webp"  group-title="PACK HBO", HBO
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbo.webp"  group-title="🎬 PACK HBO", HBO
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -655,7 +655,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A
 
 https://edge-live15-hr.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbo2.webp"  group-title="PACK HBO",HBO 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbo2.webp"  group-title="🎬 PACK HBO",HBO 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -663,7 +663,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hboplus.webp"  group-title="PACK HBO",HBO Plus
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hboplus.webp"  group-title="🎬 PACK HBO",HBO Plus
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -671,7 +671,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbofam.webp"  group-title="PACK HBO",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbofam.webp"  group-title="🎬 PACK HBO",HBO Family
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -679,7 +679,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Pl
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbosig.webp"  group-title="PACK HBO",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbosig.webp"  group-title="🎬 PACK HBO",HBO Signature
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -687,7 +687,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbopop.webp"  group-title="PACK HBO", HBO POP
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbopop.webp"  group-title="🎬 PACK HBO", HBO POP
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -695,7 +695,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/H
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hboxtreme.webp"  group-title="PACK HBO", HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hboxtreme.webp"  group-title="🎬 PACK HBO", HBO XTREME
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -703,7 +703,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbomundi.webp"  group-title="PACK HBO", HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/hbomundi.webp"  group-title="🎬 PACK HBO", HBO MUNDI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -711,7 +711,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalcinema.webp"  group-title="PACK UNIVERSAL", UNIV CINEMA
+#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalcinema.webp"  group-title="🎬PACK UNIVERSAL", UNIV CINEMA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -719,7 +719,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_M
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalcomedy.webp"  group-title="PACK UNIVERSAL", UNIV COMEDY
+#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalcomedy.webp"  group-title="🎬PACK UNIVERSAL", UNIV COMEDY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -727,7 +727,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universa
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalpremiere.webp"  group-title="PACK UNIVERSAL", UNIVPREMIERE
+#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalpremiere.webp"  group-title="🎬PACK UNIVERSAL", UNIVPREMIERE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -735,7 +735,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_en
 
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalcrime.webp"  group-title="PACK UNIVERSAL", UNIV CRIME
+#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalcrime.webp"  group-title="🎬PACK UNIVERSAL", UNIV CRIME
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -743,7 +743,7 @@ http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universa
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalreality.webp"  group-title="PACK UNIVERSAL", UNIV REALITY
+#EXTINF:-1, tvg-logo="https://television-libre.online/img/universalreality.webp"  group-title="🎬PACK UNIVERSAL", UNIV REALITY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -752,7 +752,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd
 ---------------------infantiles --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disney.webp"  group-title="INFANTILES",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disney.webp"  group-title="🧸 INFANTILES",Disney Channel
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -760,7 +760,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_e
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cn.webp"  group-title="INFANTILES",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cn.webp"  group-title="🧸 INFANTILES",Cartoon Network
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -768,7 +768,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/diskids.webp"  group-title="INFANTILES",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/diskids.webp"  group-title="🧸 INFANTILES",Discovery Kids
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -776,7 +776,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disneyjr.webp"  group-title="INFANTILES",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disneyjr.webp"  group-title="🧸 INFANTILES",Cartoonito
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -784,7 +784,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disneyjr.webp"  group-title="INFANTILES",Disney Jr
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disneyjr.webp"  group-title="🧸 INFANTILES",Disney Jr
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -792,7 +792,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Bo
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"  group-title="INFANTILES",Tooncast
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"  group-title="🧸 INFANTILES",Tooncast
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -800,7 +800,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/Dis
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nick.png"  group-title="INFANTILES",Nick
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nick.png"  group-title="🧸 INFANTILES",Nick
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -808,7 +808,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Toonca
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nickjr.webp"  group-title="INFANTILES",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nickjr.webp"  group-title="🧸 INFANTILES",Nick Jr
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -817,7 +817,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
 ---------------------argentina --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/telefe.png"  group-title="ARGENTINA",TELEFE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/telefe.png"  group-title="🇦🇷 ARGENTINA",TELEFE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -825,7 +825,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick
 
 https://edge-live15-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tvpublica.webp"  group-title="ARGENTINA",TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tvpublica.webp"  group-title="🇦🇷 ARGENTINA",TV PUBLICA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -833,7 +833,7 @@ https://edge-live15-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/Telefe
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/eltrece.webp"  group-title="ARGENTINA",EL TRECE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/eltrece.webp"  group-title="🇦🇷 ARGENTINA",EL TRECE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -841,7 +841,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.m
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nueve.webp"  group-title="ARGENTINA",EL NUEVE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/nueve.webp"  group-title="🇦🇷 ARGENTINA",EL NUEVE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -849,7 +849,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/Artear
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/america.webp"  group-title="ARGENTINA",AMERICA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/america.webp"  group-title="🇦🇷 ARGENTINA",AMERICA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -857,7 +857,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal
 
 https://edge-live02-mun.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cronica.png"  group-title="ARGENTINA",CRONICA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cronica.png"  group-title="🇦🇷 ARGENTINA",CRONICA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -865,7 +865,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/A
 
 https://edge-live02-mun.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tn.png"  group-title="ARGENTINA",TN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tn.png"  group-title="🇦🇷 ARGENTINA",TN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -873,14 +873,14 @@ https://edge-live02-mun.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/Cron
 
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/c5n.webp"  group-title="ARGENTINA",C5N
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/c5n.webp"  group-title="🇦🇷 ARGENTINA",C5N
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"  group-title="ARGENTINA",C26
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"  group-title="🇦🇷 ARGENTINA",C26
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
