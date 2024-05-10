@@ -157,7 +157,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN PREMIUM (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="🇦🇷 LIGA ARGENTINA 🏆", ESPN PREMIUM (🇦🇷) ss 2
+#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", ESPN PREMIUM (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -177,7 +177,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnpremium.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
