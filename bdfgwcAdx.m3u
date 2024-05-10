@@ -154,10 +154,10 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="🇦🇷 LIGA ARGENTINA",ESPN PREMIUM (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN PREMIUM (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="🇦🇷 LIGA ARGENTINA", ESPN PREMIUM (🇦🇷) ss 2
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/espnpr.webp" group-title="🇦🇷 LIGA ARGENTINA 🏆", ESPN PREMIUM (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -168,16 +168,16 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 LIGA ARGENTINA", TNT SPORTS (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", TNT SPORTS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 LIGA ARGENTINA", TNT SPORTS (🇦🇷) ss 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", TNT SPORTS (🇦🇷) ss 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnpremium.png"  group-title="🇦🇷 LIGA ARGENTINA",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnpremium.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
@@ -185,7 +185,7 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
 
 https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/TNT_Sports.webp"  group-title="🇦🇷 LIGA ARGENTINA",TNT Sports FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://megadeportestv.live/img/TNT_Sports.webp"  group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -193,7 +193,7 @@ https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 
 https://edge-live16-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="🇦🇷 LIGA ARGENTINA",TNT Sports  FLOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  FLOW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
