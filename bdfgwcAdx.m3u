@@ -168,7 +168,7 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", TNT SPORTS (🇦🇷) ss
+#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_tntsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", TNT SPORTS (🇦🇷) ss
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
