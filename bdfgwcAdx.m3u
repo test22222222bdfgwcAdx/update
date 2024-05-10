@@ -23,6 +23,9 @@ http://129.151.112.176/bin/m3u8/TIGO_SPORT_PLUS_HD/index.m3u8?token=WK5kbN2D
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
 http://129.151.112.176/bin/m3u8/TIGO_SPORT_3_HD/index.m3u8?token=WK5kbN2D
 
+---------------------paraguay --------------------------
+----------------------------------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="PARAGUAY", TRECE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,6 +198,8 @@ https://edge-live16-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
+---------------------deportes --------------------------
+----------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"  group-title="DEPORTES",DAZN F1
 
@@ -330,6 +335,9 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyC
 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/TyC_Internacional.mpd
 
+
+---------------------cultura --------------------------
+----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/turbo.webp"  group-title="CULTURALES",Discovery Turbo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -434,10 +442,11 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_
 
 #KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
 
-
-
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd
 
+
+---------------------cine --------------------------
+----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/cinemax.webp"  group-title="ENTRETENIMIENTO",Cinemax
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -525,8 +534,6 @@ https://edge-live32-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/War
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
-
-
 
 https://edge-live12-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
@@ -620,6 +627,9 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
 
 https://edge-live14-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
+
+---------------------infantiles --------------------------
+----------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/dream.png" group-title="INFANTILES",Dreamworks
 
@@ -740,7 +750,8 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc
 #KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd
-
+---------------------infantiles --------------------------
+----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/disney.webp"  group-title="INFANTILES",Disney Channel
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -804,7 +815,8 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/
 #KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
-
+---------------------argentina --------------------------
+----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/telefe.png"  group-title="ARGENTINA",TELEFE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -876,6 +888,9 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
+
+---------------------musica --------------------------
+----------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="Música",MTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
