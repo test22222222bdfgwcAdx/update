@@ -256,7 +256,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png"  group-title="⚽ DEPORTES ESPN",ESPN 7
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/KjXO02I.png"  group-title="⚽ DEPORTES ESPN",ESPN 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
