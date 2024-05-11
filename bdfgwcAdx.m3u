@@ -263,7 +263,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/F
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/espnextra.png"  group-title="⚽ DEPORTES ESPN",ESPN EXTRA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/f62CqZZ.png"  group-title="⚽ DEPORTES ESPN",ESPN EXTRA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -477,7 +477,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/16sYa4Q.png"  group-title="🎦 ENTRETENIMIENTO",TNT
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt@3x.png"  group-title="🎦 ENTRETENIMIENTO",TNT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
