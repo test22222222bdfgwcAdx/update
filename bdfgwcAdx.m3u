@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://media.tycsports.com/files/2024/05/10/715419/cerro-porteno-vs-olimpia-en-vivo-como-llegan-al-partido_862x485_wmk.webp"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-http://116.202.243.24:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=2308247407&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://media.tycsports.com/files/2024/05/10/715419/cerro-porteno-vs-olimpia-en-vivo-como-llegan-al-partido_862x485_wmk.webp"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-https://ssh101-fl.bozztv.com/ssh101/futplay/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
