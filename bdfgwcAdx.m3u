@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-http://116.202.243.24:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=2308247407&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
+http://88.99.29.146:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=434769711&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -14,7 +14,7 @@ http://116.202.243.24:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=230824
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G991B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
-http://116.202.243.24:1234/stream/my_channels/tigosportplushd/stream.m3u8?uid=2556774995&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
+http://88.99.29.146:1234/stream/my_channels/tigosportplushd/master.m3u8?u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -22,7 +22,7 @@ http://116.202.243.24:1234/stream/my_channels/tigosportplushd/stream.m3u8?uid=25
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G991B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
-http://116.202.243.24:1234/stream/my_channels/tigosport3hd/stream.m3u8?uid=3489585509&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
+http://88.99.29.146:1234/stream/my_channels/tigosport3hd/master.m3u8?u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
 
 ---------------------paraguay --------------------------
 ----------------------------------------------------------
