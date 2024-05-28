@@ -20,7 +20,7 @@ http://pablipintos.top/toplus.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
