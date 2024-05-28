@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 http://pablipintos.top/m3u82/top1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo=""  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
