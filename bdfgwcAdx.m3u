@@ -16,20 +16,20 @@ http://pablipintos.top/m3u82/top1.m3u8
 #EXTVLCOPT:http-referrer=https://2ny.elverruca.art/
 http://pablipintos.top/toplus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo=""  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:1c9f0222e49da66fc785376c0645d86d
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:9a04f07998404286ab92e65be0885f95
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo=""  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:1c9f0222e49da66fc785376c0645d86d
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:9a04f07998404286ab92e65be0885f95
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd?tts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiYzVjYTI4NjAtY2M4Yy0xMWViLTkwNzAtMTVkMTFhMTY0YzQ2IiwibmFtZSI6InNvcnJpYW5vLnRlbWJvMTJAZ21haWwuY29tIiwidXNlcl9hZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC8xMjQuMC4wLjAgU2FmYXJpXC81MzcuMzYiLCJkZXZpY2VJZCI6ImE3ODRkMDIzNWRlNWIzN2ZlNTE1ZGZkNTJiYzQ0OTNjIiwiaXBBZGRyZXNzIjoiNDUuMTcwLjEzMC4xODUiLCJ2ZXJzaW9uQXBwIjoiNy4wLjEzIiwicGxhdGZvcm1IIjoid2ViIiwiZGV2aWNlVHlwZUgiOiJ3aW5kb3dzIiwic3RyZWFtaW5nVHlwZSI6Ik5vdCBGcmVlIiwiaWF0IjoxNzE2ODUyNTU3LCJuYmYiOjE3MTY4NTI1NTcsImV4cCI6MTcxNjg2Njk1N30.AuowSdD2d73dZ21hluiB4IzAg5nt9cxCtLnIOg7dspQ
