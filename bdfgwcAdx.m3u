@@ -4,9 +4,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b52a7fa91fb031a3d6f2a505414b6fcd:a655a22f9c0a66574b5d95dee212fbf9
-https://sam-py-edge01.tigo.com.py/ccur-session/01_3947897693/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4
-
+#KODIPROP:inputstream.adaptive.license_key=
+https://pablipintos.top/tigoplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -275,7 +274,9 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports.png"  group-title="⚽ DEPORTES",DSports
-https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525777
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT--http-reconnect=true #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/874.m3u8
 #EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_2.png"  group-title="⚽ DEPORTES",DSports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
