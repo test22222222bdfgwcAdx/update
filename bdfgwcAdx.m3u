@@ -11,9 +11,8 @@ https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfg
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.codL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 22
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=cle arkey
-#KODIPROP:inputstream.adaptive.license_key={"6e67477640fc5d3f87eea4f50cb759c9":"2be599f2fadb9ebca2feef15763397fa","c612bf1d8a8454f3a850450ec5092f88":"9a7abee51f58f35fd83ae191e349c8a7","6383672827f15fe5841fd310217e4ea2":"dcc3c15ffe2659fa0cb2fd705842931a"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bmdHdkD8XT-H7qT1DLdZyQ","k":"K-WZ8vrbnryi_u8VdjOX-g"},{"kty":"oct","kid":"xhK_HYqEVPOoUEUOxQkviA","k":"mnq-5R9Y81_YOuGR40nIpw"},{"kty":"oct","kid":"Y4NnKCfxX-WEH9MQIX5Oog","k":"3MPBX_4mWfoMsv1wWEKTGg"}],"type":"temporary"}
 https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd
 
 
