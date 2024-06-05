@@ -14,7 +14,7 @@ https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfg
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.codL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 22
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bmdHdkD8XT-H7qT1DLdZyQ","k":"K-WZ8vrbnryi_u8VdjOX-g"},{"kty":"oct","kid":"xhK_HYqEVPOoUEUOxQkviA","k":"mnq-5R9Y81_YOuGR40nIpw"},{"kty":"oct","kid":"Y4NnKCfxX-WEH9MQIX5Oog","k":"3MPBX_4mWfoMsv1wWEKTGg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://futbolparaguayotv.github.io/futbolparaguayotv/kid.php
 https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd
 
 
