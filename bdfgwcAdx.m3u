@@ -3,7 +3,9 @@
 #EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAfdAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e67477640fc5d3f87eea4f50cb759c9:2be599f2fadb9ebca2feef15763397fa:c612bf1d8a8454f3a850450ec5092f88:9a7abee51f58f35fd83ae191e349c8a7:6383672827f15fe5841fd310217e4ea2:dcc3c15ffe2659fa0cb2fd705842931a
+#KODIPROP:inputstream.adaptive.license_key=6e67477640fc5d3f87eea4f50cb759c9:2be599f2fadb9ebca2feef15763397fa 
+#KODIPROP:inputstream.adaptive.license_key=c612bf1d8a8454f3a850450ec5092f88:9a7abee51f58f35fd83ae191e349c8a7
+#KODIPROP:inputstream.adaptive.license_key=6383672827f15fe5841fd310217e4ea2:dcc3c15ffe2659fa0cb2fd705842931a
 https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
