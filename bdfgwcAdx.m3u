@@ -4,16 +4,12 @@
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/1170.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 22
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee378a842e5bf8808d9b7a2d725702dd:cfe4213a8e41b35a0cce416f421ccc0c b7480a8ec918c296c162a949375ee026:d1e63cadd1d89eaebb2d0126097c227e
 https://1279247418.rsc.cdn77.org/bpk-tv/QGOLDHTV/dash/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 22
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee378a842e5bf8808d9b7a2d725702dd:cfe4213a8e41b35a0cce416f421ccc0c:b7480a8ec918c296c162a949375ee026:d1e63cadd1d89eaebb2d0126097c227e
-https://1279247418.rsc.cdn77.org/bpk-tv/QGOLDHTV/dash/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
