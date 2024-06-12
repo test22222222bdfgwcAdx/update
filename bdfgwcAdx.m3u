@@ -604,7 +604,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="🎦 ENTRETENIMIENTO",Golden
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU
 #EXTVLCOPT:http-user-agent=Ktor client
 https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldenp.png"  group-title="🎦 ENTRETENIMIENTO",Golden Plus
