@@ -145,35 +145,12 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 ---------------------LIGA ARGENTINAS --------------------------
 ----------------------------------------------------------
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=Mjc1ZTQxOTktMDg1NS00MGExLTlkNDgtYWJlN2FjNjAzOTU5
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN PREMIUM (🇦🇷) ss
-https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
-
-#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", ESPN PREMIUM (🇦🇷) ss 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:d99123852b1f64e57005e5d550745b15
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_tntsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", TNT SPORTS (🇦🇷)
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_tntsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆", TNT SPORTS (🇦🇷) ss 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
