@@ -170,7 +170,7 @@ https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremiu
 
 https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_tntsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/mxDNxos.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -178,12 +178,12 @@ https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 
 https://edge-live16-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_tntsports.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  FLOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxDNxos.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  FLOW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-mix02-ird.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://tntsports.cl/__export/1717077412383/sites/cdfchile/arte/apps/precomposed_20240530.png_285119621.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxDNxos.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
