@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="<img alt="Alemanha x Escocia" src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/E147BAA07995A6D368B48C75D54889A2AEDAB173447B00A990D7D3B3591E8528/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg" class="sc-bwzfXH hlugew">"  group-title="⚽ EUROCOPA 🏆",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey						
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/1170.m3u8
