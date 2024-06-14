@@ -10,8 +10,8 @@ https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfg
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b52a7fa91fb031a3d6f2a505414b6fcd:a655a22f9c0a66574b5d95dee212fbf9
-https://sam-py-edge02.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.m3u8?ccur_fmt_type=fmp4
+#KODIPROP:inputstream.adaptive.license_key=9ff6b197eb75c2a4f684e6cc57d0f85f:ddd14e5c1a631f8f246aebd4963389fd
+https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(ESPN_SUR)/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
