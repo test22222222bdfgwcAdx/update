@@ -7,6 +7,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://imagenes.razon.com.mx/files/image_940_470/uploads/2024/06/20/667453c276887.jpeg" group-title="⚽COPA AMÉRICA 🏆",Perú vs Chile
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b91f083d6c548aa9e8071086c9bbbc8&key=1d0bd6f121c12ce10fa27d301a90a2a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://starplus.com/
+#EXTVLCOPT:origin=https://starplus.com/
+https://live-ftc-na-south-2.media.starott.com/gru1/va01/starplus/event/2024/06/21/Poland_vs_Austria_20240621_1718979336015/ctr-all-complete.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2024/06/CA-Argentina-vs-Canada-1024x638-1.jpg" group-title="⚽COPA AMÉRICA 🏆",	Argentina vs. Canadá
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
