@@ -19,9 +19,9 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyC
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Chile-vs-Argentina-1024x574.jpg" group-title="⚽COPA AMÉRICA 🏆",Chile vs Argentina
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearke
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Chile-vs-Argentina-1024x574.jpg" group-title="⚽COPA AMÉRICA 🏆",Chile vs Argentina
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
@@ -880,7 +880,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick
 
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.online/img/tvpublica.webp"  group-title="🇦🇷 ARGENTINA",TV PUBLICA
 
