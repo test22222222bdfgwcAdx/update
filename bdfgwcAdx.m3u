@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Peru-vs-Canada-1024x574.webp" group-title="⚽COPA AMÉRICA 🏆",aPeru vs Canada
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://totalnewsagency.com/wp-content/uploads/2024/06/colombia-vs-costa-rica-por-la-copa-america-2024-hora-como-ver-por-tv-y-probables-formaciones-750x375.jpg" group-title="⚽COPA AMÉRICA 🏆",Colombia vs. Costa Rica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,27 +9,25 @@
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Chile-vs-Argentina-1024x574.jpg" group-title="⚽COPA AMÉRICA 🏆",Chile vs Argentina
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://totalnewsagency.com/wp-content/uploads/2024/06/colombia-vs-costa-rica-por-la-copa-america-2024-hora-como-ver-por-tv-y-probables-formaciones-750x375.jpg" group-title="⚽COPA AMÉRICA 🏆",Colombia vs. Costa Rica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Chile-vs-Argentina-1024x574.jpg" group-title="⚽COPA AMÉRICA 🏆",Chile vs Argentina
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://imagenes.razon.com.mx/files/image_940_470/uploads/2024/06/27/667e4be8144bd.jpeg" group-title="⚽COPA AMÉRICA 🏆",	Paraguay vs Brasil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Chile-vs-Argentina-1024x574.jpg" group-title="⚽COPA AMÉRICA 🏆",Chile vs Argentina
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://imagenes.razon.com.mx/files/image_940_470/uploads/2024/06/27/667e4be8144bd.jpeg" group-title="⚽COPA AMÉRICA 🏆",	Paraguay vs Brasil
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+
+https://edge-live15-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Brasil-vs-Costa-Rica-1024x574.webp" group-title="⚽COPA AMÉRICA 🏆",dBrasil vs Costa Rica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
