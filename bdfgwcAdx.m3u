@@ -1,33 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://totalnewsagency.com/wp-content/uploads/2024/06/colombia-vs-costa-rica-por-la-copa-america-2024-hora-como-ver-por-tv-y-probables-formaciones-750x375.jpg" group-title="⚽COPA AMÉRICA 🏆",Colombia vs. Costa Rica
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://totalnewsagency.com/wp-content/uploads/2024/06/colombia-vs-costa-rica-por-la-copa-america-2024-hora-como-ver-por-tv-y-probables-formaciones-750x375.jpg" group-title="⚽COPA AMÉRICA 🏆",Colombia vs. Costa Rica
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://imagenes.razon.com.mx/files/image_940_470/uploads/2024/06/27/667e4be8144bd.jpeg" group-title="⚽COPA AMÉRICA 🏆",	Paraguay vs Brasil
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://imagenes.razon.com.mx/files/image_940_470/uploads/2024/06/27/667e4be8144bd.jpeg" group-title="⚽COPA AMÉRICA 🏆",	Paraguay vs Brasil
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-
-https://edge-live15-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Brasil-vs-Costa-Rica-1024x574.webp" group-title="⚽COPA AMÉRICA 🏆",dBrasil vs Costa Rica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -38,23 +10,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.m
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 ttps://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://librefutboltv.pro/wp-content/uploads/2024/06/Brasil-vs-Costa-Rica-1024x574.webp" group-title="⚽COPA AMÉRICA 🏆",dBrasil vs Costa Rica
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b91f083d6c548aa9e8071086c9bbbc8&key=1d0bd6f121c12ce10fa27d301a90a2a7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://starplus.com/
-#EXTVLCOPT:origin=https://starplus.com/
-ttps://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2024/06/CA-Argentina-vs-Canada-1024x638-1.jpg" group-title="⚽COPA AMÉRICA 🏆",	Argentina vs. Canadá
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-ttps://edge-live15-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.conmebol.com/wp-content/uploads/2024/06/CA-Argentina-vs-Canada-1024x638-1.jpg" group-title="⚽COPA AMÉRICA 🏆",	Argentina vs. Canadá
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
