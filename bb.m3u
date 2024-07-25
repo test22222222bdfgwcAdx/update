@@ -702,7 +702,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
-#EXTINF:-1, tvg-logo="https://tele-libre.com/img/universalcinema.webp"  group-title="🎬PELICULAS", UNIV CINEMA
+#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalcinema.webp"  group-title="🎬PELICULAS", UNIV CINEMA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -710,7 +710,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_M
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
-#EXTINF:-1, tvg-logo="https://tele-libre.com/img/universalcomedy.webp"  group-title="🎬PELICULAS", UNIV COMEDY
+#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalcomedy.webp"  group-title="🎬PELICULAS", UNIV COMEDY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -718,7 +718,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universa
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd
 
-#EXTINF:-1, tvg-logo="https://tele-libre.com/img/universalpremiere.webp"  group-title="🎬PELICULAS", UNIVPREMIERE
+#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalpremiere.webp"  group-title="🎬PELICULAS", UNIVPREMIERE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -726,7 +726,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_en
 
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd
 
-#EXTINF:-1, tvg-logo="https://tele-libre.com/img/universalcrime.webp"  group-title="🎬PELICULAS", UNIV CRIME
+#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalcrime.webp"  group-title="🎬PELICULAS", UNIV CRIME
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -734,7 +734,7 @@ http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universa
 
 https://edge-live15-hr.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd
 
-#EXTINF:-1, tvg-logo="https://tele-libre.com/img/universalreality.webp"  group-title="🎬PELICULAS", UNIV REALITY
+#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalreality.webp"  group-title="🎬PELICULAS", UNIV REALITY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
