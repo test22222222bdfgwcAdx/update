@@ -278,16 +278,16 @@ https://edge-live15-hr.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/F
 
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
-#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports.png"  group-title="⚽ DEPORTES",DSports
+#EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports.webp"  group-title="⚽ DEPORTES",DSports
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 http://45.179.164.30:8000/play/a0fk
-#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_2.png"  group-title="⚽ DEPORTES",DSports 2
+#EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports_2.webp"  group-title="⚽ DEPORTES",DSports 2
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 http://45.179.164.30:8000/play/a0fl
 
-#EXTINF:-1, tvg-logo="https://megadeportestv.live/img/DSports_Plus.png?"  group-title="⚽ DEPORTES",DSports P
+#EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports_plus.webp"  group-title="⚽ DEPORTES",DSports P
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/879.m3u8
