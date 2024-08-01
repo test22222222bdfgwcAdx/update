@@ -610,7 +610,7 @@ EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rol
 
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
 
-https://edge-live13-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 ---------------------infantiles --------------------------
 ----------------------------------------------------------
