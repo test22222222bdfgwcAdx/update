@@ -590,7 +590,6 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎬PELICULAS",Cine Latino  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
@@ -932,5 +931,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82
 #EXTINF:-1 tvg-id="BajoCero.cl" tvg-logo="https://i.imgur.com/3Nxe23t.png" group-title="🎵 Música",Portal Mix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
- 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎬PELICULAS",Cine Latino  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
 
