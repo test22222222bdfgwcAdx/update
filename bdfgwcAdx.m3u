@@ -593,7 +593,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎦 ENTRETENIMIENTO",Golden EDGE  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎦 ENTRETENIMIENTO",EDGE  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
