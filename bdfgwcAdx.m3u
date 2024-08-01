@@ -575,14 +575,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png"  group-title="🎦 ENTRETENIMIENTO",A3 Series
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=49dab3bfbc255da1b20852d172bb2f53:06295c8d6009a47f8c83e5c0d3f6fdd0
-
-https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/comedy.webp"  group-title="🎦 ENTRETENIMIENTO",Comedy Central
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -597,8 +589,8 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/C
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Ktor client
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="🎬PELICULAS",Golden
-https://smt-edge03.sensa.com.ar//live/eds/Golden/live_dash_cld/Golden.mpd
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="🎦 ENTRETENIMIENTO",Golden
+https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -606,8 +598,8 @@ https://smt-edge03.sensa.com.ar//live/eds/Golden/live_dash_cld/Golden.mpd
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
-EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎬PELICULAS",Golden EDGE
-https://smt-edge03.sensa.com.ar//live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
+EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎦 ENTRETENIMIENTO",Golden EDGE
+https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
 
 EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldenpremier.png"  group-title="🎦 ENTRETENIMIENTO",Golden Prem
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
