@@ -576,14 +576,6 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png"  group-title="🎬PELICULAS",A3 Series
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=49dab3bfbc255da1b20852d172bb2f53:06295c8d6009a47f8c83e5c0d3f6fdd0
-
-https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/comedy.webp"  group-title="🎬PELICULAS",Comedy Central
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -617,7 +609,7 @@ EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rol
 
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
 
-https://edge-live14-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 ---------------------infantiles --------------------------
 ----------------------------------------------------------
