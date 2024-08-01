@@ -18,26 +18,6 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 ----------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/640px-Tigo_Sports_logo.svg.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 1
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://69.30.193.106:1234/stream/tigosparaguay/tigo1/stream.m3u8?uid=3412678496&u=Tony&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/CyHsrdL.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ff6b197eb75c2a4f684e6cc57d0f85f:ddd14e5c1a631f8f246aebd4963389fd
-http://69.30.193.106:1234/stream/tigosparaguay/tigoplus/stream.m3u8?uid=3412678496&u=Tony&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/Qtnu4kk.png"  group-title="🏆 EVENTOS 🇵🇾", EVENTOS 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-http://69.30.193.106:1234/stream/tigosparaguay/tigo3/stream.m3u8?uid=3412678496&u=Tony&p=37b1267a4ff4e12dddfe443810c1f986dcf2f5e96358ab20847d28e3d80883d8
-
 
 ---------------------paraguay --------------------------
 ----------------------------------------------------------
