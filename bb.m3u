@@ -313,8 +313,7 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tv-libre.com/img/tyc.webp"  group-title="⚽ DEPORTES",TyC Sin
 
