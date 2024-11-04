@@ -22,8 +22,8 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=150440c0d02758967650ad85b26f9295:8eeed05f0d55606e9b34eb4947ab4b23
-https://streamtp.live/global1.php?stream=dsports_2&manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+https://opchannel01.tigosports.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
