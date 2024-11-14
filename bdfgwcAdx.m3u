@@ -24,8 +24,7 @@ https://smt-edge03.sensa.com.ar//live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 
-ttps://edge-live15-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
-
+http://181.78.27.128:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/PARARG-1-780x470.png"  group-title="Eliminatorias","GEN" logo="", GEN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
