@@ -1,4 +1,12 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent=Firefox 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Opcion 2", 122 SPACE (🇦🇷) ss 
+https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
