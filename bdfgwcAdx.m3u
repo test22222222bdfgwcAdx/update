@@ -2,50 +2,6 @@
 
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent=Firefox 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/10893/10893592.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Opcion 2", 122 SPACE (🇦🇷) ss 
-ttps://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 group-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/PARARG-1-780x470.png" tvg-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/BOLPAR-780x470.png" group-title="Eliminatorias",23 TYC SPORTS (🇦🇷) ss
-ttps://smt-edge03.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  group-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/PARARG-1-780x470.png" tvg-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/PARARG-1-780x470.png" group-title="Eliminatorias", 10 TELEFE  (🇦🇷) ss
-ttps://smt-edge03.sensa.com.ar//live/eds/Telefe/live_dash_cld/Telefe.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/PARARG-1-780x470.png"  group-title=" Eliminatorias",TyC Sin
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://www.flow.com.ar/
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-
-ttp://181.78.27.128:8000/play/a05n/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.365scores.com/es/news/wp-content/uploads/2024/11/PARARG-1-780x470.png"  group-title="Eliminatorias","GEN" logo="", GEN
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-
-ttps://edge9-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A_wl/GEN_TV.mpd
-
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
