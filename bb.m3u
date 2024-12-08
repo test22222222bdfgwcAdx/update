@@ -2,9 +2,6 @@
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -160,7 +157,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -169,7 +166,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
@@ -285,7 +282,7 @@ https://topembed.mizhls.ru/lb/argdsport2/playlist.m3u8
 https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/879.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports.png"  group-title="⚽ DEPORTES",Fox Sports
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.net//img/foxsports.png"  group-title="⚽ DEPORTES",Fox Sports
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -294,7 +291,7 @@ https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfg
 
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports2.png"  group-title="⚽ DEPORTES",Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.net//img/foxsports2.png"  group-title="⚽ DEPORTES",Fox Sports 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -305,7 +302,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://telegratis.live/img/foxsports3.png"  group-title="⚽ DEPORTES",Fox Sports 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://television-libre.net//img/foxsports3.png"  group-title="⚽ DEPORTES",Fox Sports 3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -643,7 +640,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_
 
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 
-https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
+https://qn-01282-hor-1-07-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live//c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbo2.webp"  group-title="🎬PELICULAS",HBO 2
 
@@ -701,7 +698,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mp
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
-#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalcinema.webp"  group-title="🎬PELICULAS", UNIV CINEMA
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcinema.webp"  group-title="🎬PELICULAS", UNIV CINEMA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -709,7 +706,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
-#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalcomedy.webp"  group-title="🎬PELICULAS", UNIV COMEDY
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcomedy.webp"  group-title="🎬PELICULAS", UNIV COMEDY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -717,7 +714,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universa
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd
 
-#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalpremiere.webp"  group-title="🎬PELICULAS", UNIVPREMIERE
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalpremiere.webp"  group-title="🎬PELICULAS", UNIVPREMIERE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -725,7 +722,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal
 
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd
 
-#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalcrime.webp"  group-title="🎬PELICULAS", UNIV CRIME
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcrime.webp"  group-title="🎬PELICULAS", UNIV CRIME
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -733,7 +730,7 @@ http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universa
 
 https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd
 
-#EXTINF:-1, tvg-logo="https://tv-libre.com/img/universalreality.webp"  group-title="🎬PELICULAS", UNIV REALITY
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalreality.webp"  group-title="🎬PELICULAS", UNIV REALITY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
