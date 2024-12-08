@@ -74,7 +74,7 @@ https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd
 
 https://video.medios.com.py:3585/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"  group-title="🇵🇾 PARAGUAY", Telefuturo
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png"  group-title="🇵🇾 PARAGUAY", Telefuturo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
