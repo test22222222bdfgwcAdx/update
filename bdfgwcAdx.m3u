@@ -106,7 +106,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 
 https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"  group-title="🇵🇾 PARAGUAY", NTPY
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"  group-title="🇵🇾 PARAGUAY", NTPY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
