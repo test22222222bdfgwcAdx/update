@@ -157,7 +157,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -166,7 +166,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
