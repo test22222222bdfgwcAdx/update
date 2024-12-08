@@ -157,7 +157,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -166,7 +166,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
@@ -212,12 +212,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="⚽ DEPORTES ",ESPN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="⚽ DEPORTES ESPN",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png"  group-title="⚽ DEPORTES ",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-2@3x.png"  group-title="⚽ DEPORTES ESPN",ESPN 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -225,7 +225,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png"  group-title="⚽ DEPORTES ",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-3@3x.png"  group-title="⚽ DEPORTES ESPN",ESPN 3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -233,39 +233,32 @@ https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-4@3x.png"  group-title="⚽ DEPORTES ",ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-4@3x.png"  group-title="⚽ DEPORTES ESPN",ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-5@3x.png"  group-title="⚽ DEPORTES ",ESPN 5
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-5@3x.png"  group-title="⚽ DEPORTES ESPN",ESPN 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png"  group-title="⚽ DEPORTES ",ESPN 6
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png"  group-title="⚽ DEPORTES ESPN",ESPN 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/KjXO02I.png"  group-title="⚽ DEPORTES ",ESPN 7
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/KjXO02I.png"  group-title="⚽ DEPORTES ESPN",ESPN 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/f62CqZZ.png"  group-title="⚽ DEPORTES ",ESPN EXTRA
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1, tvg-logo="https://pelotalibre.com/img/logo-canal/dsports.webp"  group-title="⚽ DEPORTES",DSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -444,7 +437,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Disco
 
 ---------------------cine --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/cinemax.webp"  group-title="🎬PELICULAS",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/cinemax.webp"  group-title="🎦 ENTRETENIMIENTO",Cinemax
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -454,7 +447,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Disco
 
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/space.webp"  group-title="🎬PELICULAS",Space
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/space.webp"  group-title="🎦 ENTRETENIMIENTO",Space
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -464,7 +457,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/cinecanal.webp"  group-title="🎬PELICULAS",Cinecanal
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/cinecanal.webp"  group-title="🎦 ENTRETENIMIENTO",Cinecanal
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -474,7 +467,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt@3x.png"  group-title="🎬PELICULAS",TNT
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt@3x.png"  group-title="🎦 ENTRETENIMIENTO",TNT
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -484,7 +477,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mp
 
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png"  group-title="🎬PELICULAS",TNT Series
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series@3x.png"  group-title="🎦 ENTRETENIMIENTO",TNT Series
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -492,7 +485,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/fx.webp"  group-title="🎬PELICULAS",FX
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/fx.webp"  group-title="🎦 ENTRETENIMIENTO",FX
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -500,7 +493,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png"  group-title="🎬PELICULAS",STAR
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel@3x.png"  group-title="🎦 ENTRETENIMIENTO",STAR
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -508,7 +501,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/sony.webp"  group-title="🎬PELICULAS",Sony Argentina
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/sony.webp"  group-title="🎦 ENTRETENIMIENTO",Sony Argentina
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -516,7 +509,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.shopify.com/s/files/1/2597/4248/t/265/assets/navigation-television-series.png"  group-title="🎬PELICULAS",Warner
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.shopify.com/s/files/1/2597/4248/t/265/assets/navigation-television-series.png"  group-title="🎦 ENTRETENIMIENTO",Warner
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -524,7 +517,7 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal@3x.png"  group-title="🎬PELICULAS",Universal TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal@3x.png"  group-title="🎦 ENTRETENIMIENTO",Universal TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -532,7 +525,7 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/axn.webp"  group-title="🎬PELICULAS",AXN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/axn.webp"  group-title="🎦 ENTRETENIMIENTO",AXN
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -540,7 +533,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Un
 
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/studio.webp"  group-title="🎬PELICULAS",Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/studio.webp"  group-title="🎦 ENTRETENIMIENTO",Studio Universal
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -548,7 +541,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/ae.webp"  group-title="🎬PELICULAS",A&E
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/ae.webp"  group-title="🎦 ENTRETENIMIENTO",A&E
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -556,7 +549,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Un
 
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png"  group-title="🎬PELICULAS",TNT NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-novelas@3x.png"  group-title="🎦 ENTRETENIMIENTO",TNT NOVELAS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -564,7 +557,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/tcm.webp"  group-title="🎬PELICULAS",TCM
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/tcm.webp"  group-title="🎦 ENTRETENIMIENTO",TCM
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -572,7 +565,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/amc.webp"  group-title="🎬PELICULAS",AMC
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/amc.webp"  group-title="🎦 ENTRETENIMIENTO",AMC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -581,7 +574,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/comedy.webp"  group-title="🎬PELICULAS",Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/comedy.webp"  group-title="🎦 ENTRETENIMIENTO",Comedy Central
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -589,7 +582,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
 
 https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="🎬PELICULAS",Golden 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="🎦 ENTRETENIMIENTO",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
@@ -597,7 +590,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎬PELICULAS",Golden Edge
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/goldene.png"  group-title="🎦 ENTRETENIMIENTO",Golden Edge
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
@@ -606,7 +599,7 @@ https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/main/logos/PRMT.png"  group-title="🎬PELICULAS",Paramount 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/main/logos/PRMT.png"  group-title="🎦 ENTRETENIMIENTO",Paramount 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=89a868599af0fa0368a547da1611201e:d7be949b296decca8d6a2d535c057dc6
@@ -626,7 +619,7 @@ https://cdn.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd
 
 https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"  group-title="🎬PELICULAS", TELEMUNDO 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"  group-title="🎦 ENTRETENIMIENTO", TELEMUNDO 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -634,7 +627,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbo.webp"  group-title="🎬PELICULAS", HBO
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbo.webp"  group-title="🎬 PACK HBO",HBO
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -642,7 +635,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_
 
 https://qn-01282-hor-1-07-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live//c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbo2.webp"  group-title="🎬PELICULAS",HBO 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbo2.webp"  group-title="🎬 PACK HBO",HBO 2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -650,7 +643,7 @@ https://qn-01282-hor-1-07-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/l
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hboplus.webp"  group-title="🎬PELICULAS",HBO Plus
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hboplus.webp"  group-title="🎬 PACK HBO",HBO Plus
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -658,7 +651,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbofam.webp"  group-title="🎬PELICULAS",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbofam.webp"  group-title="🎬 PACK HBO",HBO Family
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -666,7 +659,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbosig.webp"  group-title="🎬PELICULAS",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbosig.webp"  group-title="🎬 PACK HBO",HBO Signature
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -674,7 +667,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbopop.webp"  group-title="🎬PELICULAS", HBO POP
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbopop.webp"  group-title="🎬 PACK HBO", HBO POP
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -682,7 +675,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signatur
 
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hboxtreme.webp"  group-title="🎬PELICULAS", HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hboxtreme.webp"  group-title="🎬 PACK HBO", HBO XTREME
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -690,7 +683,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbomundi.webp"  group-title="🎬PELICULAS", HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbomundi.webp"  group-title="🎬 PACK HBO", HBO MUNDI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -698,7 +691,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mp
 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcinema.webp"  group-title="🎬PELICULAS", UNIV CINEMA
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcinema.webp"  group-title="🎬PACK UNIVERSAL", UNIV CINEMA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -706,7 +699,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcomedy.webp"  group-title="🎬PELICULAS", UNIV COMEDY
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcomedy.webp"  group-title="🎬PACK UNIVERSAL", UNIV COMEDY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -714,7 +707,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universa
 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalpremiere.webp"  group-title="🎬PELICULAS", UNIVPREMIERE
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalpremiere.webp"  group-title="🎬PACK UNIVERSAL", UNIVPREMIERE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -722,7 +715,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal
 
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcrime.webp"  group-title="🎬PELICULAS", UNIV CRIME
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalcrime.webp"  group-title="🎬PACK UNIVERSAL", UNIV CRIME
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -730,7 +723,7 @@ http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universa
 
 https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd
 
-#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalreality.webp"  group-title="🎬PELICULAS", UNIV REALITY
+#EXTINF:-1, tvg-logo="https://television-libre.net//img/universalreality.webp"  group-title="🎬PACK UNIVERSAL", UNIV REALITY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
