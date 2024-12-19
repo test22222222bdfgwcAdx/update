@@ -688,7 +688,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_
 
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 
-https://qn-01282-hor-1-07-2---7169-y31k.http.global.dns.qwilted-cds.cqloud.com/live//c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
+https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/hbo2.webp"  group-title="🎬PELICULAS",HBO 2
 
