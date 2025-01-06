@@ -43,7 +43,7 @@ https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80 
-#EXTINF:-1 group-title="Paraguay" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg", Mega Paraguay 
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg", Mega Paraguay 
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/parts-web/0aae71cf/logo.png"  group-title="🇵🇾 PARAGUAY", , SNT
