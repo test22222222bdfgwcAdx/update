@@ -680,21 +680,21 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTINF:-1 group-title="🎬PELICULAS" ch-number="307" tvg-id="CineFamiliar" tvg-logo="https://dl.dropbox.com/scl/fi/gm3q3q2b642htogo7rer6/cinefamiliar.jpg?rlkey=kxz5r5o947slc63z7owrhrm70&dl=1", Cine Familiar
+#EXTINF:-1 group-title="🎬PELICULAS" ch-number="307" tvg-id="CineFamiliar" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/5176.png", Cine Familiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
-#EXTINF:-1 group-title="🎬PELICULAS" ch-number="308" tvg-id="CineHispano" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Hispano
+#EXTINF:-1 group-title="🎬PELICULAS" ch-number="308" tvg-id="CineHispano" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/5174.png", Cine Hispano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
-#EXTINF:-1 group-title="🎬PELICULAS" ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1", Cine Premium
+#EXTINF:-1 group-title="🎬PELICULAS" ch-number="310" tvg-id="CinePremium" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/5175.png", Cine Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-
+http://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 ---------------------infantiles --------------------------
 ----------------------------------------------------------
 
