@@ -883,7 +883,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd?
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTINF:-1 group-title="🎦 ENTRETENIMIENTO" ch-number="307" tvg-id="CineFamiliar" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/5176.png, Cine Familiar
+#EXTINF:-1 group-title="🎦 ENTRETENIMIENTO" ch-number="307" tvg-id="CineFamiliar" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/5176.png", Cine Familiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
