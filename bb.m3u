@@ -344,7 +344,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A_wl/Ty
 #EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="⚽ DAZN",, DAZN  1  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://ottb.live.cf.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="⚽ DAZN",, DAZN  2  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
