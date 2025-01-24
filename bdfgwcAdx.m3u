@@ -249,10 +249,10 @@ https://sam-py-edge04.tigo.com.py/ccur-session/01_3508408953/out/v1/c2cc7832b5b6
 
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
 
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.imgur.com/zOGY39l.png", Mega Paraguay 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80 
-#EXTINF:-1 group-title="🇵🇾 PARAGUAY" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg", Mega Paraguay 
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd
 
 
