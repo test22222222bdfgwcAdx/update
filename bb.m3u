@@ -210,8 +210,15 @@ Fuera de Servicio.....
 
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eec1f8b89569a1a76c92ed76490be7b&key=a1abf1c31ed60f2bc0d540cef9214122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+http://sam-bo-cach02.tigo.com.bo/ccur-session/01_44790322/VMX4_widevine/rolling-buffer/TIGOSPORTSBO/TIGOSPORTSBO/transmux/index.mpd?ccur_fmt_type=fmp4
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
