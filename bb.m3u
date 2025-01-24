@@ -389,13 +389,21 @@ https://smt-edge03.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey						
+
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+
+https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports FLOW
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  FLOW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
