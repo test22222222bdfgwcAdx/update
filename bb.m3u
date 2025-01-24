@@ -214,14 +214,6 @@ Fuera de Servicio.....
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eec1f8b89569a1a76c92ed76490be7b&key=a1abf1c31ed60f2bc0d540cef9214122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-http://sam-bo-cach02.tigo.com.bo/ccur-session/01_44790322/VMX4_widevine/rolling-buffer/TIGOSPORTSBO/TIGOSPORTSBO/transmux/index.mpd?ccur_fmt_type=fmp4
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
@@ -256,10 +248,11 @@ https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="🇵🇾 PARAGUAY" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.imgur.com/zOGY39l.png", Mega Paraguay 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80 
-#EXTINF:-1 group-title="🇵🇾 PARAGUAY" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg", Mega Paraguay 
-https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/parts-web/0aae71cf/logo.png"  group-title="🇵🇾 PARAGUAY", , SNT
 
