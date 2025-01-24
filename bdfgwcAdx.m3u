@@ -212,7 +212,7 @@ Fuera de Servicio.....
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YCLslKH.jpeg" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,14 +222,14 @@ Fuera de Servicio.....
 https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
 https://sam-py-edge04.tigo.com.py/ccur-session/01_3508486661/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
