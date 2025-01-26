@@ -214,7 +214,7 @@ Fuera de Servicio.....
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
-#EXTVLCOPT:origin=https://web.app.flow.com.ar/
+#EXTVLCOPT:http-origin=https://web.app.flow.com.ar
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
 
@@ -222,7 +222,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
-#EXTVLCOPT:origin=https://web.app.flow.com.ar/
+#EXTVLCOPT:origin=https://web.app.flow.com.ar
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd?referer=https://web.app.flow.com.ar/origin=https://web.app.flow.com.ar
 
 
