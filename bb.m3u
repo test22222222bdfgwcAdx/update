@@ -411,9 +411,16 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_H
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0?
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36/&webtoken=1.0?
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports SENSa
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0?
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36/&webtoken=1.0?
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 ---------------------deportes --------------------------
 ----------------------------------------------------------
