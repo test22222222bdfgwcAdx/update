@@ -210,24 +210,10 @@ Fuera de Servicio.....
 
 #EXTM3U
 
-#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="🏆 EVENTOS 🇵🇾", Premier 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/208114.ts
-#EXTINF:-1    tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="🏆 EVENTOS 🇵🇾", Premier 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-http://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/208114.m3u8
+#EXTINF:- tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="🏆 EVENTOS 🇵🇾", Premier 1
+https://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/208114.ts
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="🏆 EVENTOS 🇵🇾", Premier 1
+https://todoplus.digital/5MUK2Fhqtq/wqq6nhKF4W/208114.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
