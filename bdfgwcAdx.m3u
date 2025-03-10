@@ -213,7 +213,7 @@ Fuera de Servicio.....
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hfFmYW.jpg" group-title="", MEGA2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
-http://todoplus.digital/live/5MUK2Fhqtq/wqq6nhKF4W/208114.m3u8
+https://sam-py-edge05.tigo.com.py/ccur-session/01_549061213/VMX4/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/CCURStream_video_TigoSportsHD4-CCUR_iframe.m3u8?ccur_st=0&ccur_et=0&ccur_fmt_type=ts&ccur_ifreq=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hfFmYXz/Wpg" group-title="", MEGA3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
