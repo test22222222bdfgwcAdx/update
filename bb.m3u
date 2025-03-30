@@ -440,10 +440,8 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"  group-title="⚽ DEPORTES",DAZN F1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpdpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&u"  group-title="⚽ DEPORTES",DANZ G1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
