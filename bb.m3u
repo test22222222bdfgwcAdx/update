@@ -1287,3 +1287,12 @@ https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(ES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e12023e03a952bcbceaacda17e7e8327:dd4a561a6cb1b929cc3ec3ab3a070073
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS_2_LATAM)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
+#EXTINF:-1 group-title="🎬PELICULAS" tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/pasiones.webp" ,Pasiones
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
+https://cdn.cvattv.com.ar/live//live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
