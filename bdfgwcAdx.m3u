@@ -211,28 +211,6 @@ Fuera de Servicio.....
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.ole.com.ar/images/2025/03/24/Mg0jT1a7f_1290x760__1.jpg"   group-title="🏆 EVENTOS 🇵🇾",", Colombia vs Paraguay
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.ole.com.ar/images/2025/03/24/Mg0jT1a7f_1290x760__1.jpg"   group-title="🏆 EVENTOS 🇵🇾",", Colombia vs Paraguay2
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_2A/Eventos1HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.ole.com.ar/images/2025/03/24/Mg0jT1a7f_1290x760__1.jpg"   group-title="🏆 EVENTOS 🇵🇾",", Colombia vs Paraguay3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-
-https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
