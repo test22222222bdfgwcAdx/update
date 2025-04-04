@@ -215,7 +215,7 @@ Fuera de Servicio.....
 https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 Tigo Sports.py
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
