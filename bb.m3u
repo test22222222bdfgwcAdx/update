@@ -225,7 +225,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
 https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 Tigo Sports.py
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -373,7 +373,7 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN PREMIUM.ar
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -381,14 +381,14 @@ https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN PREMIUM.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN Premiun FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",ESPN PREMIUM.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 
@@ -396,7 +396,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 
 https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports FLOW
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png"  group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT SPORTS HD.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -404,14 +404,14 @@ https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8
 
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports  FLOW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT SPORTS HD.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT Sports SENSA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/81c7860f818ed95e7a6650e183eee66d2244e825/logos/TNTSP.png" group-title="🇦🇷 LIGA ARGENTINA 🏆",TNT SPORTS HD.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
