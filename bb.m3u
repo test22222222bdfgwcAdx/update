@@ -243,7 +243,7 @@ https://sam-py-edge04.tigo.com.py/ccur-session/01_3508408953/out/v1/c2cc7832b5b6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d8bfb76315e4fc6ba1328e1d8870bd:eb27c40de4c406980e473fb6233fc897
-https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd
+https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd?ccur_fmt_type=fmp4
 -------------------------------------------------------------------------------------------------------------
 
 ---------------------paraguay --------------------------
