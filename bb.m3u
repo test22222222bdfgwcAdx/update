@@ -570,12 +570,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="⚽ DAZN",, DAZN  3  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="⚽ DAZN",, DAZN  4  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="⚽ DAZN",, DAZN  F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -590,22 +590,22 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hmjw88r/La-Liga-Hypermotion.png" group-title="⚽ DAZN",, LA LIGA HYPERMOTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="⚽ DAZN",, LALIGA HYPERMOTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYFT189/La-Liga-Hypermotion2.png" group-title="⚽ DAZN",, LALIGA HYPERMOTION 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0wtv7/Hypermotion3.png" group-title="⚽ DAZN",, LALIGA HYPERMOTION 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
 ---------------------cultura --------------------------
