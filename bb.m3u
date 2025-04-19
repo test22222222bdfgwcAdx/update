@@ -427,6 +427,12 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="⚽ DAZN",, DAZN  F1
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&u"  group-title="⚽ DEPORTES",DANZ 1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
