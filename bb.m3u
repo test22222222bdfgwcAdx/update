@@ -1243,12 +1243,12 @@ https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",Tigo Sports.py
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0
-https://sam-py-edge04.tigo.com.py/ccur-session/01_3508486661/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+
+https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
