@@ -1218,15 +1218,14 @@ https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd?|ref
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 Tigo Py2 🇵🇾 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 Eventos 2 🇵🇾 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-https://sam-py-edge05.tigo.com.py/ccur-session/5f6c44226fc7494a8499be3dd6a8a6fe17462218668561b65a320aeed11ebae01d90082191a3cOrayJsNqJs3Xc3vvwwifH9of/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
+https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",Tigo Sports.py
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
