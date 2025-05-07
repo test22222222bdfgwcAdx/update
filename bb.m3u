@@ -1212,7 +1212,7 @@ https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(FO
 #EXTINF:-1 group-title="🎬PELICULAS" ch-number="331" tvg-id="PasionesLatinAmerica.us.uy" tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png", group-title="🎬PELICULAS", Pasiones
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-#EXTINF:-1 tvg-id="🎬PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png", group-title="🎬PELICULAS", TL Novelas
+#EXTINF:-1 tvg-id="🎬PELICULAS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8e0MLkkrza3ATipMVHNVJHcDQ6oB1FW7OxvnO76YggIEPg4deEw-9mcAARsE3h-IynTEZqQMViIoMxYaQlTLxHGEFphGF7wy-sMQ8yvxFQR2XxDEzY7_qoSXAXVIxhFYSmNP5QltIkA/s800/tlnovelas_2020.png", group-title="🎬PELICULAS", TL Novelas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
