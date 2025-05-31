@@ -316,13 +316,13 @@ https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?
 
 https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png"  group-title="🇵🇾 PARAGUAY", Paraguay TV.py
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png"  group-title="🇵🇾 PARAGUAY", Paraguay TV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
 
-https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd?|referer=https://portal.app.flow.com.py/|origin=https://portal.app.flow.com.py
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"  group-title="🇵🇾 PARAGUAY", PARAVISION
 
