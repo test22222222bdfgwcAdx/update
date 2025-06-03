@@ -211,13 +211,13 @@ Fuera de Servicio.....
 #EXTM3U
 
 
-
+group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
 ---------------------paraguay --------------------------
 ----------------------------------------------------------
-
+group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-title="CANALES FLOW"
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png"   group-title="🇵🇾 PARAGUAY", TRECE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
