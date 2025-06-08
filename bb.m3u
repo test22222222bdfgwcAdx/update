@@ -1239,7 +1239,7 @@ https://sam-py-edge01.tigo.com.py/ccur-session/ad6d9ad340dc44cfaed441c88e5104801
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",🏆 EVENTOS 🇵🇾 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
