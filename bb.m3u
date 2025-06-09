@@ -268,6 +268,15 @@ https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer
 
 https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv-2.png" group-title="🇵🇾 PARAGUAY", Popu TV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+
+ttps://chromecast.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ytimg.com/vi/PdFWZbnyyOs/hqdefault.jpg" group-title="🇵🇾 PARAGUAY",  RTV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1231,7 +1240,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mp
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-https://sam-py-edge01.tigo.com.py/ccur-session/ad6d9ad340dc44cfaed441c88e5104801748631800536430103c0e78511edba2f6b8db5aabe06TfPoq7bcpzIioW1uMA4mxQSR/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="🏆 EVENTOS 🇵🇾",Tigo Sports.py
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -1247,8 +1256,7 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
 #KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
-https://sam-py-edge01.tigo.com.py/ccur-session/ad6d9ad340dc44cfaed441c88e5104801748631800536430103c0e78511edba2f6b8db5aabe06TfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
-
+https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 ......
 
 
