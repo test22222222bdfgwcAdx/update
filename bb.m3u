@@ -734,7 +734,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd?|referer=htt
 
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/sony.webp"  group-title="🎬PELICULAS",Sony Argentina
+#EXTINF:-1 ch-number="332" tvg-id="Sony HD.uy"  tvg-logo="https://tele-libre.com/img/sony.webp"  group-title="🎬PELICULAS",Sony HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
