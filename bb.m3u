@@ -421,7 +421,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 ---------------------deportes --------------------------
 ----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"  group-title="⚽ DEPORTES",DAZN F1
+#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20231006/original/pngtree-soccer-symbol-color-png-image_13129386.png" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png"  group-title="⚽ DEPORTES",DAZN F1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
