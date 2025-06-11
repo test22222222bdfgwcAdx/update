@@ -1129,7 +1129,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|ref
 
 ---------------------musica --------------------------
 ----------------------------------------------------------
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/512/8146/8146757.png" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="🎵 Música",MTV
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/5338/5338726.png" tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="🎵 Música",MTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
