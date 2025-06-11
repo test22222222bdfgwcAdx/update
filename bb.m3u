@@ -562,7 +562,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 ---------------------cultura --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/turbo.webp"  group-title="📚 CULTURALES",Discovery Turbo
+#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20250115/original/pngtree-group-of-people-around-the-globe-symbolizing-unity-and-global-connection-png-image_20181206.png" tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/turbo.webp"  group-title="📚 CULTURALES",Discovery Turbo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
