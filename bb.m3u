@@ -1188,10 +1188,10 @@ https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(ES
 #KODIPROP:inputstream.adaptive.license_key=42e223062a9890ed3fb444f6cd8b0a8d:ca47a0c190afb18b9b0faa50252a01bb
 https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(ESPN3_ANDINA)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
 
-#EXTINF:-1 group-title="CLARO PY" tvg-logo="https://heroeip.github.io/logo/Espn6.png", ESPN 6 PY
+#EXTINF:-1 group-title="CLARO PY" tvg-logo="https://heroeip.github.io/logo/Espn6.png", ESPN 6 PY.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
-https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
 
 #EXTINF:-1 group-title="CLARO PY" tvg-logo="https://heroeip.github.io/logo/Espn7.png", ESPN 7 PY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
