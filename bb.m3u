@@ -673,7 +673,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discover
 
 ---------------------cine --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/cinemax.webp"  group-title="🎬PELICULAS",Cinemax
+#EXTINF:-1  group-logo="https://img.freepik.com/vector-premium/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg" tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/cinemax.webp"  group-title="🎬PELICULAS",Cinemax
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
