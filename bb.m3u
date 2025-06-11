@@ -423,7 +423,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+ttps://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
  #EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="⚽ DAZN",, DAZN  F1
  #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -438,7 +438,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+ttps://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="⚽ DEPORTES ",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
@@ -540,24 +540,24 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_I
 #EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="⚽ DAZN",, DAZN  1  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+ttps://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="⚽ DAZN",, DAZN  2  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+ttps://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="⚽ DAZN",, DAZN  F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+ttps://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="⚽ DAZN",, LALIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+ttps://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 
 ---------------------cultura --------------------------
