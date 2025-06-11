@@ -1057,7 +1057,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mp
 https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 ---------------------argentina --------------------------
 ----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/telefe.png"  group-title="🇦🇷 ARGENTINA",TELEFE
+#EXTINF:-1  group-logo="https://a0.anyrgb.com/pngimg/1890/1020/%D0%BA%D1%83%D0%B1%D0%BE%D0%BA-davis%D0%B0-davis-argentina-flag-sun-of-may-noticias-flag-of-argentina-national-emblem-lionel-messi-argentina-national-flag.png" tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/telefe.png"  group-title="🇦🇷 ARGENTINA",TELEFE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
