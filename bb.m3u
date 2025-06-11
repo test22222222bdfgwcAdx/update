@@ -869,7 +869,7 @@ https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|r
 https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0---------------------infantiles --------------------------
 ----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/dream.png" group-title="🧸 INFANTILES",Dreamworks
+#EXTINF:-1  group-logo="https://i.imgur.com/G5n9lTQ.png" tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/dream.png" group-title="🧸 INFANTILES",Dreamworks
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
